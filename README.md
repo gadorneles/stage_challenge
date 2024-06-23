@@ -1,5 +1,8 @@
 # stage_challenge
-Assignment for Robotics class
+
+Assignment for Robotics class.
+
+The node can be found inside the stage_challenge folder.
 
 To run the code you'll need to:
 
